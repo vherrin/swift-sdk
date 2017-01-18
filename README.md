@@ -1,6 +1,6 @@
 # Watson Developer Cloud Swift SDK
 
-[![Documentation](https://img.shields.io/badge/Documentation-API-blue.svg?style=flat)] (http://watson-developer-cloud.github.io/swift-sdk)
+[![Documentations](https://img.shields.io/badge/Documentation-API-blue.svg?style=flat)] (http://watson-developer-cloud.github.io/swift-sdk)
 
 
 ## Overview

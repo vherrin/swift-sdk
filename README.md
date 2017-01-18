@@ -1,7 +1,7 @@
 # Watson Developer Cloud Swift SDK
 
 [![Documentation](https://img.shields.io/badge/Documentation-API-blue.svg?style=flat)] (http://watson-developer-cloud.github.io/swift-sdk)
-[![CLA assistant](https://cla-assistant.io/readme/badge/watson-developer-cloud/ios-sdk)](https://cla-assistant.io/watson-developer-cloud/swift-sdk)
+
 
 ## Overview
 
